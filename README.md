@@ -1,18 +1,191 @@
-# 💫 About Me:
-Web developer<br><br>Learning C, C++, Python, and Java<br><br>Interested in frontend and backend development<br><br>Building small projects to improve skills<br><br>Focused on programming fundamentals<br><br>Passionate about learning new technologies<br>
+```
+████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     
+╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     
+   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     
+   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     
+   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
+   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗ 
+██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+███████║███████║██║     █████╔╝ █████╗  ██████╔╝
+██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ftqeEmRTp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nonserious.shama_) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shamahere1996) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shamahere1996@gmail.com) 
+![Matrix Rain](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shamashaikh007&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shamashaikh007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamashaikh007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
+
+```bash
+$ whoami
+shama shaikh (@ShamaShaikh007)
+```
+
+```bash
+$ cat /dev/identity
+Role: Student
+Company: [Your company]
+Location: Mumbai,India
+Status: Bhai student hu...!!!
+```
+
+```bash
+$ echo "[Your bio]"
+```
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix...;Accessing+Neural+Network...;Connection+Established+%3E)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shamashaikh007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🖥️ **SYSTEM STATUS**
+
+```bash
+$ systemctl status hacker.service
+● hacker.service - Elite Developer Service
+   Loaded: loaded (/etc/systemd/system/hacker.service; enabled)
+   Active: active (running) since Bhai student hu...!!!
+   
+$ ps aux | grep skills
+C++ & Java         █████████████████████████████ 99%
+JavaScript , Python ,C++/C , Java, HTML ,CSS,SQL 
+```
+
+---
+
+## 🔐 **ACTIVE OPERATIONS**
+
+```bash
+$ ls -la /home/hacker/projects/
+```
+
+**[01]** `Cafe website/`
+```
+Description: Brewhaus is a modern, responsive coffee shop website designed to provide an engaging and user-friendly experience for customers. The project focuses on clean UI design, smooth navigation, and mobile-first responsiveness to showcase the coffee shop’s brand, menu, and services effectively.
+
+The website includes essential sections such as Home, About, Menu, and Contact, allowing users to easily explore offerings and learn more about the coffee shop. This project was built to improve frontend development skills and demonstrate the practical use of HTML, CSS, and JavaScript in creating a real-world business website.
+
+Brewhaus is optimized for different screen sizes and browsers, ensuring consistent performance across desktops, tablets, and mobile devices
+Access: [Your project1Link]
+Classification: [TOP SECRET]
+```
+
+**[02]** `[Your project2Name]/`
+```
+Description: [Your project2Description]
+Access: [Your project2Link]
+Classification: [CONFIDENTIAL]
+```
+
+---
+
+## ⚡ **TECHNICAL ARSENAL**
+
+```bash
+$ cat /proc/skills
+```
+
+| **CATEGORY** | **WEAPONS** |
+|:---:|:---:|
+| **Primary Language** | `C++` |
+| **Full Stack** | `[![My Skills](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)` |
+| **Currently Infiltrating** | `C# ,Ruby , Rust & COBOL` |
+
+<div align="center">
+
+```
+     ╔═══════════════════════════════════════╗
+     ║           SKILL MATRIX                ║
+     ╠═══════════════════════════════════════╣
+     ║  javascript , SQL , python                        ║
+     ╚═══════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📊 **NEURAL NETWORK STATS**
+
+```bash
+$ sudo cat /var/log/hacker_stats.log
+```
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ShamaShaikh007&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamaShaikh007&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff)
+
+</div>
+
+---
+
+## 🎯 **MISSION OBJECTIVES**
+
+```bash
+$ cat mission.txt
+```
+
+**[CURRENT OBJECTIVE]:** To master more technologies 
+
+**[ACHIEVEMENTS UNLOCKED]:**
+- 🏆 Built a real time personal chatBot .
+- 🏅 [Your achievement2]
+
+**[DAILY ROUTINE]:**
+```
+Hours logged: 5-6 hours hours/day
+Fun Fact: [Your funFact]
+```
+
+---
+
+## 🌐 **SECURE CHANNELS**
+
+```bash
+$ netstat -an | grep LISTENING
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[Your linkedin])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[Your twitter])
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([Your website])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamahere1996@gmail.com)
+
+</div>
+
+---
+
+```bash
+$ fortune | cowsay
+ _________________________________
+< The Matrix has you, shama shaikh... >
+ ---------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+<div align="center">
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+██ Welcome to Discord communities, Github Discussions and local Dev Meets. - Unauthorized access is prohibited ██
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+![Matrix](https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+**> Connection terminated. Have a nice day._**
+
+</div>
