@@ -27,7 +27,7 @@ shama shaikh (@ShamaShaikh007)
 ```bash
 $ cat /dev/identity
 Role: Student
-Company: [Your company]
+
 Location: Mumbai,India
 Status: Bhai student hu...!!!
 ```
